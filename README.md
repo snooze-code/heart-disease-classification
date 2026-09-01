@@ -2,7 +2,7 @@
 
 A course-guided Python machine learning project completed while following Daniel Bourke’s Zero to Mastery material. This notebook explores a heart disease dataset, compares three classification models, and evaluates a tuned Logistic Regression model.
 
-## Course context and credit
+## Course context
 
 This project follows [Daniel Bourke’s heart disease classification notebook](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-heart-disease-classification.ipynb) from Zero to Mastery. The project idea and core workflow come from the course. This repository contains my implementation and notes from working through that material.
 
